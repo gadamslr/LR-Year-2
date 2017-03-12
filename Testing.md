@@ -21,7 +21,9 @@ To do this you will need to include:
 	- the actual outcome with a sample of the evidence, for example screen shots of before and after the test, etc, sampled in order to limit volume.
 
 ### Example:
-[Imgur](http://i.imgur.com/X2R6vgQ.jpg)
+![alt text][TestTableExample]
+[TestTableExample]: http://i.imgur.com/X2R6vgQ.jpg "TestTableExample"
+
 
 Taken from NEA project:
 [Non-exam assessment sample project (A-level): RED](http://filestore.aqa.org.uk/resources/computing/AQA-7517-NEA-RED-PROJECT.PDF)
